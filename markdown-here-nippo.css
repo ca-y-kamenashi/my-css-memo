@@ -18,6 +18,11 @@
 */
 /* .markdown-here-wrapper[data-md-url*="mail.yahoo."] ul { color: red; } */
 
+a {
+  text-decoration:  underline;
+  text-decoration-line: underline;
+}
+
 pre, code {
   font-size: 0.85em;
   font-family: Consolas, Inconsolata, Courier, monospace;

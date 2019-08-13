@@ -18,6 +18,10 @@
 */
 /* .markdown-here-wrapper[data-md-url*="mail.yahoo."] ul { color: red; } */
 
+body {
+  background-color: #ffffff;
+}
+
 a {
   text-decoration:  underline;
   text-decoration-line: underline;
@@ -146,20 +150,35 @@ h1 {
 }
 
 h2 {
-  color: #FAE;
-font-size: 1.4em;
-  border-bottom: 1px dashed #ebe;
+  color: #ffeecc;
+  font-weight: normal;
+  background-color: pink;
+  font-size: 1.4em;
+  border-bottom: 2px solid white;
+  border-radius: 40px 10px;
+  padding: 4px 16px;
 }
 
 h3 {
-color: #EA8;
+  color: #FAE;
   font-size: 1.3em;
-border-left: 8px solid #EBE;
-padding-left: 0.5em;
+  padding: 4px 0.7em; 
+  border: 1px dashed #ebe;
+  /* border-left: 1px dotted #ebe; */
+  margin-right: 10%;
+  margin-left: 8px;
 }
 
 h4 {
+  color: #229944;
+  font-weight: normal;
+  background-color: #ccffbb;
   font-size: 1.2em;
+  border-bottom: 2px solid white;
+  border-radius: 40px 10px;
+  padding: 4px 16px;
+  margin-right: 40%;
+  margin-left: 16px;
 }
 
 h5 {

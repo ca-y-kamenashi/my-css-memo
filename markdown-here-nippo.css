@@ -18,8 +18,18 @@
 */
 /* .markdown-here-wrapper[data-md-url*="mail.yahoo."] ul { color: red; } */
 
-body {
+html {
   background-color: #ffffff;
+  border: 8px double #FAE;
+}
+
+body {
+  background-color: #ffffff; 
+}
+
+div {
+  border: 8px double #FAE; 
+  padding: 2em;
 }
 
 a {
@@ -150,19 +160,19 @@ h1 {
 }
 
 h2 {
-  color: #ffeecc;
+  color: #cc5522;
   font-weight: normal;
   background-color: pink;
   font-size: 1.4em;
   border-bottom: 2px solid white;
   border-radius: 40px 10px;
-  padding: 4px 16px;
+  padding: 4px 20px;
 }
 
 h3 {
   color: #FAE;
   font-size: 1.3em;
-  padding: 4px 0.7em; 
+  padding: 4px 22px; 
   border: 1px dashed #ebe;
   /* border-left: 1px dotted #ebe; */
   margin-right: 10%;
@@ -176,8 +186,8 @@ h4 {
   font-size: 1.2em;
   border-bottom: 2px solid white;
   border-radius: 40px 10px;
-  padding: 4px 16px;
-  margin-right: 40%;
+  padding: 8px 24px;
+  margin-right: 30%;
   margin-left: 16px;
 }
 

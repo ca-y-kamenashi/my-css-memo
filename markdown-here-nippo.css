@@ -19,16 +19,16 @@
 /* .markdown-here-wrapper[data-md-url*="mail.yahoo."] ul { color: red; } */
 
 html {
-  background-color: #ffffff;
-  border: 8px double #FAE;
+  /* background-color: #ffffff; */
+  /* border: 8px double #FAE; */
 }
 
 body {
-  background-color: #ffffff; 
+  /* background-color: #ffffff;  */
 }
 
 div {
-  border: 8px double #FAE; 
+  /* border: 8px double #FAE;  */
   padding: 2em;
 }
 
@@ -162,7 +162,7 @@ h1 {
 h2 {
   color: #cc5522;
   font-weight: normal;
-  background-color: pink;
+  background-color: white;
   font-size: 1.4em;
   border-bottom: 2px solid white;
   border-radius: 40px 10px;
@@ -182,7 +182,7 @@ h3 {
 h4 {
   color: #229944;
   font-weight: normal;
-  background-color: #ccffbb;
+  background-color: white;
   font-size: 1.2em;
   border-bottom: 2px solid white;
   border-radius: 40px 10px;

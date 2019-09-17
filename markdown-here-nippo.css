@@ -24,7 +24,7 @@ html {
 }
 
 body {
-  /* background-color: #ffffff;  */
+  background-color: #feefbb; 
 }
 
 div {
@@ -171,6 +171,7 @@ h2 {
 
 h3 {
   color: #FAE;
+  background-color: #fff;
   font-size: 1.3em;
   padding: 4px 22px; 
   border: 1px dashed #ebe;
